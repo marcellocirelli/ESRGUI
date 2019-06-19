@@ -1,4 +1,4 @@
-This is a GUI for the ESRGAN image upscaling script. It's goal is to
+This is a GUI for the ESRGAN image upscaling script written by xinntao. It's goal is to
 provide a user-friendly way to upscale images and game textures.
 
 Instructions:
