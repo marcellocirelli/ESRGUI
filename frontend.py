@@ -4,8 +4,8 @@ from tkinter import *
 #Create Window object
 window=Tk()
 window.geometry("800x600")
-window.title("ERSGUI")
-window.iconbitmap(r"ersgui_icon.ico")
+window.title("ESRGUI")
+window.iconbitmap(r"esrgui_icon.ico")
 
 #define ListBox
 list1=Listbox(window, height=30, width=100)
